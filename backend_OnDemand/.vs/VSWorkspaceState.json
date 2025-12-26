@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\on-demand-app.Api",
+    "\\on-demand-app.Api\\Auth",
+    "\\on-demand-app.Api\\Controllers",
+    "\\on-demand-app.Api\\Hubs",
+    "\\on-demand-app.Api\\Services",
+    "\\on-demand-app.Core",
+    "\\on-demand-app.Core\\Entities",
+    "\\on-demand-app.Infrastructure",
+    "\\on-demand-app.Infrastructure\\Data"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,17 @@
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\bin\Debug\net9.0\on-demand-app.Infrastructure.deps.json
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\bin\Debug\net9.0\on-demand-app.Infrastructure.runtimeconfig.json
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\bin\Debug\net9.0\on-demand-app.Infrastructure.dll
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\bin\Debug\net9.0\on-demand-app.Infrastructure.pdb
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\bin\Debug\net9.0\on-demand-app.Core.dll
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\bin\Debug\net9.0\on-demand-app.Core.pdb
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.AssemblyInfo.cs
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-deman.2003C7F8.Up2Date
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.dll
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\refint\on-demand-app.Infrastructure.dll
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.pdb
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\on-demand-app.Infrastructure.genruntimeconfig.cache
+C:\Users\alaou\DOTNET_PROJECT\on-demand-app.Infrastructure\obj\Debug\net9.0\ref\on-demand-app.Infrastructure.dll
