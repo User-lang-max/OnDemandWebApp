@@ -54,13 +54,13 @@ var jwtAudience = builder.Configuration["Jwt:Audience"];
 
 if (string.IsNullOrEmpty(jwtKey))
 {
-    jwtKey = "c2791930c0bda08978b2e1ce62961454f146bb754bc9c43c74d13453354bba1808e6aef572ca3dd275d48d81a0e524a14cc7c6c44a83426e7d374ff6d5781985";
+    jwtKey = "";
 }
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        // A. Paramètres de validation classiques (HTTP)
+        
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
